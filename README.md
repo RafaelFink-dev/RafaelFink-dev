@@ -14,17 +14,6 @@ Sou apaixonado por criar soluções web eficientes e escaláveis. Meus projetos 
 
 ---
 
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RafaelFink-dev&show_icons=true&theme=tokyonight" alt="Rafael Fink's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFink-dev&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
-  </tr>
-</table>
-
----
-
 ## 📫 Contato
 
 - 📧 Email: rafaelfinkanselmo99@gmail.com  
